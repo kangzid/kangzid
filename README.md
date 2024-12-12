@@ -1,4 +1,6 @@
-<h1 align="center">𝐻𝑒𝓁𝓁𝑜, 𝐼 𝒶𝓂 𝒶 𝓅𝓇𝑜𝓂𝓅𝓉 𝑒𝓃𝑔𝒾𝓃𝑒𝑒𝓇𝒾𝓃𝑔</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7E936&width=435&lines=%F0%9D%90%BB%F0%9D%91%92%F0%9D%93%81%F0%9D%93%81%F0%9D%91%9C%2C+%F0%9D%90%BC+%F0%9D%92%B6%F0%9D%93%82+%F0%9D%92%B6+%F0%9D%93%85%F0%9D%93%87%F0%9D%91%9C%F0%9D%93%82%F0%9D%93%85%F0%9D%93%89+%F0%9D%91%92%F0%9D%93%83%F0%9D%91%94%F0%9D%92%BE%F0%9D%93%83%F0%9D%91%92%F0%9D%91%92%F0%9D%93%87%F0%9D%92%BE%F0%9D%93%83%F0%9D%91%94" alt="Example Usage - README Typing SVG">
+</p>
 
 ###
 
