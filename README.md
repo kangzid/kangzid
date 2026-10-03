@@ -1,3 +1,4 @@
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7E936&width=435&lines=%F0%9D%90%BB%F0%9D%91%92%F0%9D%93%81%F0%9D%93%81%F0%9D%91%9C%2C+%F0%9D%90%BC+%F0%9D%92%B6%F0%9D%93%82+%F0%9D%92%B6+%F0%9D%93%85%F0%9D%93%87%F0%9D%91%9C%F0%9D%93%82%F0%9D%93%85%F0%9D%93%89+%F0%9D%91%92%F0%9D%93%83%F0%9D%91%94%F0%9D%92%BE%F0%9D%93%83%F0%9D%91%92%F0%9D%91%92%F0%9D%93%87%F0%9D%92%BE%F0%9D%93%83%F0%9D%91%94" alt="Example Usage - README Typing SVG">
 </p>
@@ -43,9 +44,9 @@
 ###
 
 <div align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd291ZDR5Z3FrbjdidWphanphcWE3dnNuN2IzcWkzNjRiYTBuY2RuZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/wU5GXcDhwLDO7bcKvP/giphy.gif" height="150" alt="stats graph"  />
-  <img src="https://4kwallpapers.com/images/walls/thumbs_3t/24674.jpeg" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kangzid&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://media.tenor.com/Gcgpj5_2CaoAAAAi/let-claude-do-it-claude-ai.gif" height="150" alt="stats graph"  />
+  <img src="https://github-readme-philosophical-quotes.vercel.app/api/generate-image?theme=yeblu&author=Jean-Jacques%20Rousseau&daily-quote=true&include-ids=11&exclude-ids=2" height="150" alt="languages graph"  />
+  <img src="https://media1.tenor.com/m/Yp3Z5ukJLggAAAAd/chicote-ia.gif" height="150" alt="activity-graph graph"  />
 </div>
 
 ###
